@@ -1,0 +1,6 @@
+S.No,Words,English Meaning,Telugu Meaning
+1,Debug,identify and remove errors,tappulu vethakadam
+2,address,a location of data in main memory or on a disk,chirunama
+3,pointers,it is a variable that stores/point address of another variable,adi oka variable andulo inko variable okka address ni store cheyochu
+4,variables,is a named location in a memory where a program can manipulate the data. ,adina value ni store chesukodaniki variable ni use chestham
+5,datatype,is a data storage format that a variable can store aÿdata to perform a specific operation,variable ki elanti type of data ni  store chesukovali ani chepthundi
